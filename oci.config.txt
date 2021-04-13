@@ -1,0 +1,6 @@
+user=ocid1.user.oc1..aaaaaaaa6nulaz3bh3feubkcn7pkg44vovmebrcuxinfyp4e6l52lcmehl4a
+fingerprint=de:db:1d:bf:db:45:35:4a:0f:76:16:23:1f:4a:00:19
+tenancy=ocid1.tenancy.oc1..aaaaaaaarwotn6uwso6qg2d2ny6hoofh2iubyyn6nllowknkcwlzd3xzwwqa
+region=us-ashburn-1
+key_file=<path to your private keyfile> # TODO
+
